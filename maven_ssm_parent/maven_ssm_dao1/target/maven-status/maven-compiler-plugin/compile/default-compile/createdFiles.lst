@@ -1,0 +1,7 @@
+cn\javasm\dao\RoleDao.class
+cn\javasm\dao\MemberDao.class
+cn\javasm\dao\ProductDao.class
+cn\javasm\dao\UserInfoDao.class
+cn\javasm\dao\PermissionDao.class
+cn\javasm\dao\TravellerDao.class
+cn\javasm\dao\OrdersDao.class

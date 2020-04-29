@@ -1,0 +1,7 @@
+cn\javasm\entity\Permission.class
+cn\javasm\entity\Product.class
+cn\javasm\entity\Traveller.class
+cn\javasm\entity\Member.class
+cn\javasm\entity\Orders.class
+cn\javasm\entity\Role.class
+cn\javasm\entity\UserInfo.class

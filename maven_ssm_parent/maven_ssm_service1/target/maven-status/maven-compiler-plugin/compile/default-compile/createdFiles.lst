@@ -1,0 +1,6 @@
+cn\javasm\service\impl\OrdersServiceImpl.class
+cn\javasm\service\impl\ProductServiceImpl.class
+cn\javasm\service\impl\UserInfoServiceImpl.class
+cn\javasm\service\ProductService.class
+cn\javasm\service\OrdersService.class
+cn\javasm\service\UserInfoService.class
