@@ -1,0 +1,10 @@
+
+spring:
+  thymeleaf:
+    cache: false
+
+# 开发坏境禁用thymleaf模板缓存
+server:
+  port: 8080
+  servlet:
+    context-path: /

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/maven-angular" />
+    <file type="web" url="file://$PROJECT_DIR$/maven-hibernate" />
+    <file type="web" url="file://$PROJECT_DIR$/maven-mapper" />
+    <file type="web" url="file://$PROJECT_DIR$/maven_parent/maven_wab" />
+    <file type="web" url="file://$PROJECT_DIR$/maven_ssm_parent/maven_ssm_wab1" />
+    <file type="web" url="file://$PROJECT_DIR$/maven_ssm_praent/maven_ssm_wab" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_ssm_praent/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_ssm_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/maven_ssm_praent/maven_ssm_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_ssm_praent/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

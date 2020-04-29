@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven_ssm_service1" />
+        <module name="maven_ssm_dao" />
+        <module name="maven_ssm_dao1" />
+        <module name="maven_ssm_entity" />
+        <module name="maven_ssm_entity1" />
+        <module name="maven_ssm_util" />
+        <module name="maven_ssm_service" />
+        <module name="maven_wab" />
+        <module name="maven_service" />
+        <module name="maven_dao" />
+        <module name="maven_ssm_utils" />
+        <module name="spring-boot" />
+        <module name="maven_ssm_wab1" />
+        <module name="maven_ssm_wab" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="maven-angular" target="1.7" />
+      <module name="maven-hibernate" target="1.5" />
+      <module name="maven-mapper" target="1.5" />
+      <module name="maven_dao" target="1.5" />
+      <module name="maven_parent" target="1.5" />
+      <module name="maven_service" target="1.5" />
+      <module name="maven_ssm_dao" target="1.8" />
+      <module name="maven_ssm_dao1" target="1.8" />
+      <module name="maven_ssm_entity" target="1.8" />
+      <module name="maven_ssm_entity1" target="1.8" />
+      <module name="maven_ssm_parent" target="1.5" />
+      <module name="maven_ssm_praent" target="1.5" />
+      <module name="maven_ssm_service" target="1.8" />
+      <module name="maven_ssm_service1" target="1.8" />
+      <module name="maven_ssm_util" target="1.8" />
+      <module name="maven_ssm_utils" target="1.8" />
+      <module name="maven_ssm_wab" target="1.8" />
+      <module name="maven_ssm_wab1" target="1.7" />
+      <module name="maven_wab" target="1.5" />
+      <module name="mavent_ssm_dao" target="1.5" />
+      <module name="spring-boot" target="1.8" />
+      <module name="untitled" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot" options="-parameters" />
+    </option>
+  </component>
+</project>

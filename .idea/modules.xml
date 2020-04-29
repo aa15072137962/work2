@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/angular/angular.iml" filepath="$PROJECT_DIR$/angular/angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_parent/maven_dao/maven_dao.iml" filepath="$PROJECT_DIR$/maven_parent/maven_dao/maven_dao.iml" group="maven_parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_parent/maven_parent.iml" filepath="$PROJECT_DIR$/maven_parent/maven_parent.iml" group="maven_parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_parent/maven_service/maven_service.iml" filepath="$PROJECT_DIR$/maven_parent/maven_service/maven_service.iml" group="maven_parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssm_praent/maven_ssm_dao/maven_ssm_dao.iml" filepath="$PROJECT_DIR$/maven_ssm_praent/maven_ssm_dao/maven_ssm_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssm_parent/maven_ssm_dao1/maven_ssm_dao1.iml" filepath="$PROJECT_DIR$/maven_ssm_parent/maven_ssm_dao1/maven_ssm_dao1.iml" group="maven_ssm_parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssm_praent/maven_ssm_entity/maven_ssm_entity.iml" filepath="$PROJECT_DIR$/maven_ssm_praent/maven_ssm_entity/maven_ssm_entity.iml" group="maven_ssm_praent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssm_parent/maven_ssm_entity1/maven_ssm_entity1.iml" filepath="$PROJECT_DIR$/maven_ssm_parent/maven_ssm_entity1/maven_ssm_entity1.iml" group="maven_ssm_parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssm_parent/maven_ssm_parent.iml" filepath="$PROJECT_DIR$/maven_ssm_parent/maven_ssm_parent.iml" group="maven_ssm_parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssm_praent/maven_ssm_service/maven_ssm_service.iml" filepath="$PROJECT_DIR$/maven_ssm_praent/maven_ssm_service/maven_ssm_service.iml" group="maven_ssm_praent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssm_parent/maven_ssm_service1/maven_ssm_service1.iml" filepath="$PROJECT_DIR$/maven_ssm_parent/maven_ssm_service1/maven_ssm_service1.iml" group="maven_ssm_parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssm_parent/maven_ssm_util/maven_ssm_util.iml" filepath="$PROJECT_DIR$/maven_ssm_parent/maven_ssm_util/maven_ssm_util.iml" group="maven_ssm_parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssm_praent/maven_ssm_utils/maven_ssm_utils.iml" filepath="$PROJECT_DIR$/maven_ssm_praent/maven_ssm_utils/maven_ssm_utils.iml" group="maven_ssm_praent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssm_praent/maven_ssm_wab/maven_ssm_wab.iml" filepath="$PROJECT_DIR$/maven_ssm_praent/maven_ssm_wab/maven_ssm_wab.iml" group="maven_ssm_praent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssm_parent/maven_ssm_wab1/maven_ssm_wab1.iml" filepath="$PROJECT_DIR$/maven_ssm_parent/maven_ssm_wab1/maven_ssm_wab1.iml" group="maven_ssm_parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/maven_parent/maven_wab/maven_wab.iml" filepath="$PROJECT_DIR$/maven_parent/maven_wab/maven_wab.iml" group="maven_parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/proiectIdea.iml" filepath="$PROJECT_DIR$/proiectIdea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot/spring-boot.iml" />
+    </modules>
+  </component>
+</project>

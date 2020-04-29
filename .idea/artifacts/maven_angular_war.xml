@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="maven-angular:war">
+    <output-path>$PROJECT_DIR$/maven-angular/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>maven-angular</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="maven-angular.war">
+      <element id="artifact" artifact-name="maven-angular:war exploded" />
+    </root>
+  </artifact>
+</component>
